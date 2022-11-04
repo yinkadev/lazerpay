@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+    margin: auto;
+    padding: 0;
+    
+  }
+  
+  .container{
+  
+  position:fixed;
+    width:100%;
+    height:100%;
+    margin: 1vh 20% 20%;
+  }
+  
+  
+  h1{
+    color: blue;
+    padding-top: 3rem;
+  }
+  .form{
+
+    background-color: azure;
+    height: 500px;
+    width: 350px;
+    margin-top: 13%;
+    padding: 50px;
+    white-space: pre-line;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .log{
+    color: white;
+    background: blue;
+    height: 40px;
+    width: 250px;
+    border: none;
+    
+  
+  }
